@@ -62,6 +62,7 @@ export const getServerSideProps = async (context) => {
 			messages: JSON.stringify(messages),
 			chat: chat,
 		},
+		// revalidate: 60; // this will do Incremental Static Regeneration every 60 seconds once
 	};
 };
 
