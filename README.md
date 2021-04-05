@@ -1,3 +1,27 @@
+# About Next.js
+
+## Defaults:
+
+1. Routing: next/router
+2. Image Optimization: next/image
+3. Fast Refresh
+4. Static Assets: public/
+5. Built-In CSS Support
+6. API Routes: pages/api/user.js
+7. Internationalized Routing
+8. File-System Routing: pages/index.js
+9. TypeScript Support
+10. Code Splitting & bundling
+
+## Data Fetching Methods Available:
+
+1. Client Side Rendering (CSR)
+2. Server Side Rendering (SSR)
+3. Static Site Generation (SSG)
+4. Incremental Static Regeneration (ISR)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Creating app
@@ -37,4 +61,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# About Next.js
