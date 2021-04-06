@@ -1,14 +1,14 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-	apiKey: "AIzaSyDwxna-4ZE08WkFCA_5IUqvxTDfkEzgaDI",
-	authDomain: "sociogram-world.firebaseapp.com",
-	databaseURL: "https://sociogram-world.firebaseio.com",
-	projectId: "sociogram-world",
-	storageBucket: "sociogram-world.appspot.com",
-	messagingSenderId: "598795257178",
-	appId: "1:598795257178:web:e964c82ff8423057e51f63",
-	measurementId: "G-TCRKM3NJN6",
+	apiKey: "AIzaSyDwxna-4ZqvxTDfkEzgaDI",
+	authDomain: "d.firebaseapp.com",
+	databaseURL: "https://d.firebaseio.com",
+	projectId: "d",
+	storageBucket: "d.appspot.com",
+	messagingSenderId: "59879178",
+	appId: "1:59879525eb:e964c82ff8423057e51f63",
+	measurementId: "G-TCM3NJN6",
 };
 
 const app = !firebase.apps.length
